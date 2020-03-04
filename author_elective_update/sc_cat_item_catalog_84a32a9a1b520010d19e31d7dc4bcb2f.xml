@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Asus A53 Series (Amazon - A53TA-XN1)">44a32a9a1b520010d19e31d7dc4bcb27</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 19:00:57</sys_created_on>
+        <sys_id>84a32a9a1b520010d19e31d7dc4bcb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Asus A53 Series (Amazon - A53TA-XN1)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_84a32a9a1b520010d19e31d7dc4bcb2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 19:00:57</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ec7fb5e7db8b7f8491232f17d4961932</instance_id>
+        <instance_name>dev91360</instance_name>
+        <name>sc_cat_item_catalog_84a32a9a1b520010d19e31d7dc4bcb2f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Asus A53 Series (Amazon - A53TA-XN1)">44a32a9a1b520010d19e31d7dc4bcb27</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 19:00:57</sys_created_on><sys_id>84a32a9a1b520010d19e31d7dc4bcb2f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Asus A53 Series (Amazon - A53TA-XN1)</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_catalog_84a32a9a1b520010d19e31d7dc4bcb2f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 19:00:57</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-993376376</payload_hash>
+        <record_name>Service Catalog.Asus A53 Series (Amazon - A53TA-XN1)</record_name>
+        <reverted_from/>
+        <source>c80dde921b520010d19e31d7dc4bcb42</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 19:00:57</sys_created_on>
+        <sys_id>c0a3aa9a1b520010d19e31d7dc4bcb49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa56e26f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 19:00:57</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>c8a3aa9ae352001025e9b5c440033a48</update_guid>
+        <update_guid_history>c8a3aa9ae352001025e9b5c440033a48:-993376376</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Asus A53 Series (Amazon - A53TA-XN1)">6cebb81c1ba20010d19e31d7dc4bcb5f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 16:35:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>03d9dbeee80f4a90802353b77e2eead1</sys_id>
+        <sys_metadata>84a32a9a1b520010d19e31d7dc4bcb2f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Asus A53 Series (Amazon - A53TA-XN1)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">44a32a9a1b520010d19e31d7dc4bcb27</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_84a32a9a1b520010d19e31d7dc4bcb2f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_84a32a9a1b520010d19e31d7dc4bcb2f">c0a3aa9a1b520010d19e31d7dc4bcb49</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 16:35:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
